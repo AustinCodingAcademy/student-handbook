@@ -2,7 +2,7 @@
 # Student Handbook
 ## Course Information
 Intro | Intermediate | Advanced
---- | --- | --- 
+:---: | :---: | :---: 
 [prework](https://github.com/AustinCodingAcademy/student-handbook/blob/master/intro-prework.md) | [prework](https://github.com/AustinCodingAcademy/student-handbook/blob/master/intermediate-prework.md) | [prework](https://github.com/AustinCodingAcademy/student-handbook/blob/master/advanced-prework.md)
 [install guide]() | [install guide]() | [install guide]()
 [syllabus]() | [syllabus]() | [syllabus]()
