@@ -2,12 +2,7 @@
 # Student Handbook
 ### Prework
 Here you will find the prework that has to be complete before the first day of class.
+#### [Intro](https://github.com/AustinCodingAcademy/student-handbook/blob/master/intro-prework.md)
+#### [Intermediate](https://github.com/AustinCodingAcademy/student-handbook/blob/master/intermediate-prework.md)
+#### [Advanced](https://github.com/AustinCodingAcademy/student-handbook/blob/master/advanced-prework.md)
 
-#### Intro
-* [pre-work](https://github.com/AustinCodingAcademy/student-handbook/blob/master/intro-prework.md)
-
-#### Intermediate
-* [pre-work](https://github.com/AustinCodingAcademy/student-handbook/blob/master/intermediate-prework.md)
-
-#### Advanced
-* [pre-work](https://github.com/AustinCodingAcademy/student-handbook/blob/master/advanced-prework.md)
