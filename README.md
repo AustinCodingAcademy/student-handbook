@@ -2,9 +2,11 @@
 # Student Handbook
 ## Course Information
 Intro | Intermediate | Advanced
-:---: | :---: | :---: 
-[prework](https://github.com/AustinCodingAcademy/student-handbook/blob/master/intro-prework.md) | [prework](https://github.com/AustinCodingAcademy/student-handbook/blob/master/intermediate-prework.md) | [prework](https://github.com/AustinCodingAcademy/student-handbook/blob/master/advanced-prework.md)
-[install guide]() | [install guide]() | [install guide]()
-[syllabus]() | [syllabus]() | [syllabus]()
-[textbook]() | [textbook]() | [textbook]()
-[workbook]() | [workbook]() | 
+:---: | :---: | :---:
+[prework](intro/Prework.md) | [prework](intermediate/Prework.md) | [prework](advanced/Prework.md)
+[install guide](intro/InstallGuide.md) | [install guide](intermediate/InstallGuide.md) | [install guide](advanced/InstallGuide.md)
+[syllabus](intro/Syllabus.md) | [syllabus](intermediate/Syllabus.md) | [syllabus](advanced/Syllabus.md)
+[textbook](https://github.com/AustinCodingAcademy/intro-textbook) | [textbook](https://github.com/AustinCodingAcademy/intermediate-textbook) | [textbook](https://github.com/AustinCodingAcademy/advanced-textbook)
+[workbook](https://github.com/AustinCodingAcademy/intro-workbook) | [workbook](https://github.com/AustinCodingAcademy/intermediate-workbook) |
+
+note: You must be enrolled in the course to see its textbook.
