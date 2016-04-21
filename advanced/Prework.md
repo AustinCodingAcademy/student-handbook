@@ -20,7 +20,7 @@ Note: Codeschool isn't free, but [here's a coupon](https://www.codeschool.com/en
 * [Codeschool MongoDB Tutorial (Only level 1)](https://www.codeschool.com/courses/the-magical-marvels-of-mongodb)
 * [Codeschool Discover DevTools (all)](https://www.codeschool.com/courses/discover-devtools)
 
-__Bonus__
+__Bonus!__
 * [Flexbox Defense](http://www.flexboxdefense.com/)
 * [Flexbox Froggy](http://flexboxfroggy.com/)
 
