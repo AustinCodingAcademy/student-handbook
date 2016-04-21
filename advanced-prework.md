@@ -23,6 +23,8 @@ Note: Codeschool isn't free, but [here's a coupon](https://www.codeschool.com/en
 
 ### Must Read
 * [How the Web Works: A Primer for Newcomers to Web Development (or anyone, really)](https://medium.freecodecamp.com/how-the-web-works-a-primer-for-newcomers-to-web-development-or-anyone-really-b4584e63585c#.ipp76okk8)
+* [How the Web Works Part II: Client-Server Model & the Structure of a Web Application](https://medium.freecodecamp.com/how-the-web-works-part-ii-client-server-model-the-structure-of-a-web-application-735b4b6d76e3#.krr8xwocs)
+* [How the Web Works Part III: HTTP & REST](https://medium.freecodecamp.com/how-the-web-works-part-iii-http-rest-e61bc50fa0a#.fl8jf4mtq)
 
 ### More Resources
 Here are some extra resources to help with understanding the technologies we'll be using in class
