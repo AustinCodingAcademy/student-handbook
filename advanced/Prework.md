@@ -20,6 +20,9 @@ Note: Codeschool isn't free, but [here's a coupon](https://www.codeschool.com/en
 * [Codeschool MongoDB Tutorial (Only level 1)](https://www.codeschool.com/courses/the-magical-marvels-of-mongodb)
 * [Codeschool Discover DevTools (all)](https://www.codeschool.com/courses/discover-devtools)
 
+__Bonus__
+* [Flexbox Defense](http://www.flexboxdefense.com/)
+* [Flexbox Froggy](http://flexboxfroggy.com/)
 
 ### Must Read
 * [How the Web Works: A Primer for Newcomers to Web Development (or anyone, really)](https://medium.freecodecamp.com/how-the-web-works-a-primer-for-newcomers-to-web-development-or-anyone-really-b4584e63585c#.ipp76okk8)
@@ -28,7 +31,9 @@ Note: Codeschool isn't free, but [here's a coupon](https://www.codeschool.com/en
 
 ### More Resources
 Here are some extra resources to help with understanding the technologies we'll be using in class
+* [Command Line Power User Videos](http://commandlinepoweruser.com/)
 * [The Command Line Crash Course](http://cli.learncodethehardway.org/book/)
 * [freeCodeCamp Build Web Apps with Expressjs](https://www.freecodecamp.com/challenges/build-web-apps-with-expressjs)
 * [Backbone.js Tutorial Videos](http://m.youtube.com/playlist?list=PLTjRvDozrdlwn9IsHWEs9IQv3HQob4bH3)
+* 
 
