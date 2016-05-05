@@ -35,3 +35,4 @@ Here are some extra resources to help with understanding the technologies we'll 
 * [The Command Line Crash Course](http://cli.learncodethehardway.org/book/)
 * [freeCodeCamp Build Web Apps with Expressjs](https://www.freecodecamp.com/challenges/build-web-apps-with-expressjs)
 * [Backbone.js Tutorial Videos](http://m.youtube.com/playlist?list=PLTjRvDozrdlwn9IsHWEs9IQv3HQob4bH3)
+* [Backbone.js For Beginners: Best Tutorials, Videos, And Learning Materials](http://whatpixel.com/backbonejs-top-learning-resources/)
