@@ -32,19 +32,16 @@
 ---
 ### [Lesson Five](https://github.com/AustinCodingAcademy/advanced-textbook/blob/master/lessons/05LessonFive.md)
 #### Using `jQuery.ajax()`
+
+---
+### [Lesson Six](https://github.com/AustinCodingAcademy/advanced-textbook/blob/master/lessons/06LessonSix.md)
 #### Using Backbone Models
 #### Using Backbone Collections
 
 ---
-### [Lesson Six](https://github.com/AustinCodingAcademy/advanced-textbook/blob/master/lessons/06LessonSix.md)
-#### Backbone Views
-#### `el`, `template`, `render`
-#### Exersize
-Create Layout View
-
----
 ### [Lesson Seven](https://github.com/AustinCodingAcademy/advanced-textbook/blob/master/lessons/07LessonSeven.md)
 #### Backbone Views
+#### `el`, `template`, `render`
 #### `itemView`, `listView`
 
 ---
