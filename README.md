@@ -5,4 +5,4 @@ Intro | Intermediate | Advanced
 :---: | :---: | :---:
 [prework](intro/Prework.md) | [prework](intermediate/Prework.md) | [prework](advanced/Prework.md)
 [install guide](intro/InstallGuide.md) | [install guide](intermediate/InstallGuide.md) | [install guide](advanced/InstallGuide.md)
-[syllabus](advanced/Syllabus.md) | [syllabus](intermediate/Syllabus.md) | [syllabus](advanced/Syllabus.md)
+[syllabus](intro/Syllabus.md) | [syllabus](intermediate/Syllabus.md) | [syllabus](advanced/Syllabus.md)
