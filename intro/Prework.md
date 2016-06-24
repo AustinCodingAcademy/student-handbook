@@ -4,8 +4,7 @@
 ## Codecademy
   * Language Skills:
     * [HTML/CSS](https://www.codecademy.com/learn/web)
-    * [CSS Diner](https://flukeout.github.io/)
-
+    * 
 ## Codeschool
   * Development Skills:
     * [Chrome Devtools (Lesson 1)](https://www.codeschool.com/courses/discover-devtools)
