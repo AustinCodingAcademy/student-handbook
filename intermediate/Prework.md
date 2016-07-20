@@ -24,5 +24,6 @@ You entire programming career will be recorded, versioned, and shared with Git. 
 
 ### 5. [Code School: Discover DevTools (Lessons 1, 2, 3, 4)](https://www.codeschool.com/courses/discover-devtools)
 
-### 6. Read through all of [Lesson Zero](https://github.com/AustinCodingAcademy/frontend-intermediate-textbook/blob/master/lessons/00LessonZero.md) and [Lesson One](https://github.com/AustinCodingAcademy/frontend-intermediate-textbook/blob/master/lessons/01LessonOne.md)
+### 6. Read through all of Lesson 0 and Lesson 1 in the intermediate textbook. You can access the textbook via Campus Manager. Once you log into to https://campus.austincodingacademy.com/, click on the textbook link.
+
 You are to read the lesson before the class everytime. We will spend very little time on lecturing, the vast majority being spent on actual coding. You will have some time to work solo on them in class, and sometimes will be randomly paired up to work together with a partner. If there is something in class you feel like you did not fully grasp, do not wait to read on to the next lesson, where it may be used again and/or better explained.
