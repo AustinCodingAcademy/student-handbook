@@ -27,5 +27,7 @@ Once Atom is installed add these extensions:
 
 * [Login to GitHub Desktop Video](https://youtu.be/TLWxAW0eRB8)
 
+* [Getting started with Github](https://youtu.be/mpuGlDSr45E)
+
 ### Google Chrome Browser
 * Download and install from http://www.google.com/chrome/
