@@ -3,7 +3,6 @@
 
 Complete all free lessons before the first day of class:
 
-## Codecademy
   * Language Skills:
     * [HTML/CSS](https://www.codecademy.com/learn/web)
 ## Codeschool
